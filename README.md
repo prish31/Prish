@@ -1,5 +1,6 @@
-# first
+# first 
 This is my first repo
 
-# Big Test
-## Small test
+# Big Text
+## Small text
+### Smaller text
