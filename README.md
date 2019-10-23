@@ -1,9 +1,4 @@
-# first 
-This is my first repository
+# My first repo
 
-# Big Text
-## Small text
-### Smaller text
-
-Hello
-Hi
+## Hi 
+### welcome
