@@ -7,3 +7,5 @@ This is my first repository
 
 Hello
 Hi
+
+I am so dumb here ._.
